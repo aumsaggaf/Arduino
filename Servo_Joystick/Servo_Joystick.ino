@@ -1,15 +1,12 @@
 /*
- * rosserial Servo Control Example
+ * Servo_Joystick
+ * Updated version of rosserial ServoControl Example
  *
- * This sketch demonstrates the control of hobby R/C servos
- * using ROS and the arduiono
- * 
- * For the full tutorial write up, visit
- * www.ros.org/wiki/rosserial_arduino_demos
+ * This sketch demonstrates the control of servo
+ * using ROS, the arduino, and a joystick
  *
- * For more information on the Arduino Servo Library
- * Checkout :
- * http://www.arduino.cc/en/Reference/Servo
+ * Editor: Asmaa Al-Saggaf
+ * Date: 8/12/2018
  */
 
 #if (ARDUINO >= 100)

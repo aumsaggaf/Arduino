@@ -1,15 +1,11 @@
 /*
- * rosserial Servo Control Example
+ * Servo_Button
+ * Updated version of rosserial ServoControl Example
  *
- * This sketch demonstrates the control of hobby R/C servos
- * using ROS and the arduiono
- * 
- * For the full tutorial write up, visit
- * www.ros.org/wiki/rosserial_arduino_demos
+ * This sketch subscribe to a message to control servo
  *
- * For more information on the Arduino Servo Library
- * Checkout :
- * http://www.arduino.cc/en/Reference/Servo
+ * Editor: Asmaa Al-Saggaf
+ * Date: 8/12/2018
  */
 
 #if (ARDUINO >= 100)

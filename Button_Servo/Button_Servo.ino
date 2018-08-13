@@ -1,5 +1,12 @@
-/* 
- * Button Example for Rosserial
+/*
+ * Button_Sevro
+ * Updated version of rosserial Button Example
+ *
+ * This sketch publish a message to control servo
+ * connected to another Arduino
+ *
+ * Editor: Asmaa Al-Saggaf
+ * Date: 8/12/2018
  */
 
 #include <ros.h>
